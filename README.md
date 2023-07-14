@@ -1,7 +1,7 @@
 # Welcome to My Profile! 👋
 
 ## About Me
-I am a Discord staff member and management enthusiast, actively involved in three vibrant community and roleplay servers. In addition to my role in Discord communities, I have a passion for coding, graphic design, and product development. I enjoy combining my skills to create engaging and visually appealing experiences.
+I am a Discord staff member and management, actively involved in three vibrant community and roleplay servers. In addition to my role in Discord communities, I have a passion for coding, graphic design, and product development. I enjoy combining my skills to create engaging and visually appealing experiences.
 
 ## My Interests
 - **Discord Management**: I am experienced in overseeing and moderating community and roleplay servers, ensuring a positive and inclusive environment for all members.
@@ -10,7 +10,8 @@ I am a Discord staff member and management enthusiast, actively involved in thre
 - **Product Development**: I am passionate about developing innovative and user-friendly products. From concept ideation to prototyping and testing, I enjoy the entire product development lifecycle.
 
 ## Get in Touch
-- Discord: [grinwoe](https://discord.gg/2mqFqRVaSh)
+- Discord: [grinwoe] (https://discord.com)
+- Server I manage for: [Avidville] (https://discord.gg/2mqFqRVaSh)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect. I'm always excited to meet new people and engage in meaningful conversations!
 
