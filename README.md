@@ -13,6 +13,8 @@ I am a Discord staff member and management, actively involved in three vibrant c
 - Discord: [grinwoe](https://discord.com)
 - Server I manage for: [Avidville](https://discord.gg/R9qHcNNyYV)
 - Server I manage for: [Virtual Gathering Grounds](https://discord.gg/2mqFqRVaSh)
+
+
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect. I'm always excited to meet new people and engage in meaningful conversations!
 
 ## My Latest Projects
